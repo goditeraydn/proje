@@ -1,0 +1,26 @@
+h1{
+  color: #FCDCA3;
+  background-color: #EA640D;
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;
+  border-radius: 10px;
+  border-bottom: 12px;
+} 
+h2{
+  color: #FCDCA3;
+  background-color: #EA640D;
+  text-align: center;
+  font-family: cursive;
+  border-radius: 10px;
+  margin: 0%;
+}
+body{
+  background-color: #FBC57B;
+}
+h3{
+  color: #BF381A;
+}
+p{
+
+}
